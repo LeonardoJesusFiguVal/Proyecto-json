@@ -21,3 +21,4 @@ const ordenador3={
     nombreSeguro: "Seguros Pepe",
     infoContactoSeguro: "segurospepe@gmail.com"
 }
+
